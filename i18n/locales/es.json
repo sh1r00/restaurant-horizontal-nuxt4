@@ -1,0 +1,55 @@
+{
+  "a11y": {
+    "skipToContent": "Saltar al contenido",
+    "mainNav": "Navegaci\u00f3n principal",
+    "toggleMenu": "Alternar men\u00fa",
+    "closeDialog": "Cerrar",
+    "toggleDark": "Modo oscuro",
+    "toggleLight": "Modo claro"
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Men\u00fa",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Donde la Tierra se Encuentra con el Fuego",
+    "subtitle": "Cocina r\u00fastica moderna galardonada. Ingredientes de temporada y platos al fuego de le\u00f1a.",
+    "cta": "Reservar Mesa",
+    "viewMenu": "Ver Men\u00fa"
+  },
+  "menu": {
+    "title": "Nuestro Men\u00fa",
+    "description": "Platos de temporada elaborados con ingredientes locales."
+  },
+  "about": {
+    "title": "Nuestra Historia",
+    "subtitle": "Fundado en 2015, Terra & Flame re\u00fane la calidez de la cocina r\u00fastica con t\u00e9cnicas modernas.",
+    "philosophy": "Nuestra Filosof\u00eda",
+    "philosophyText": "Creemos en el poder de ingredientes simples tratados con respeto.",
+    "chef": "Conoce a Nuestra Chef",
+    "chefText": "La Chef Mar\u00eda Santos se form\u00f3 en Barcelona antes de traer su pasi\u00f3n por la cocina al fuego."
+  },
+  "contact": {
+    "title": "Cont\u00e1ctanos",
+    "address": "456 Oak Avenue, Portland, OR 97201",
+    "phone": "(503) 555-0199",
+    "email": "hola (at) terraandflame.com",
+    "hours": "Horario",
+    "reservations": "Hacer Reservaci\u00f3n",
+    "name": "Nombre",
+    "emailLabel": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar"
+  },
+  "footer": {
+    "tagline": "Cocina r\u00fastica moderna en el coraz\u00f3n de Portland.",
+    "copyright": "\u00a9 {year} Terra & Flame. Todos los derechos reservados.",
+    "hours": "Horario"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "close": "Cerrar"
+  }
+}

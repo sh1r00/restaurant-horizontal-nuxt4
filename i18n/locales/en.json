@@ -1,0 +1,55 @@
+{
+  "a11y": {
+    "skipToContent": "Skip to main content",
+    "mainNav": "Main navigation",
+    "toggleMenu": "Toggle menu",
+    "closeDialog": "Close",
+    "toggleDark": "Switch to dark mode",
+    "toggleLight": "Switch to light mode"
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Where Earth Meets Fire",
+    "subtitle": "Award-winning modern rustic cuisine. Seasonal ingredients, wood-fired dishes, and an ambiance that feels like home.",
+    "cta": "Reserve a Table",
+    "viewMenu": "View Our Menu"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "description": "Seasonally inspired dishes crafted from locally sourced ingredients."
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "Founded in 2015, Terra & Flame brings together the warmth of rustic cooking with modern culinary techniques.",
+    "philosophy": "Our Philosophy",
+    "philosophyText": "We believe in the power of simple, honest ingredients treated with respect.",
+    "chef": "Meet Our Chef",
+    "chefText": "Chef Maria Santos trained in Barcelona before bringing her passion for wood-fired cooking here."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "address": "456 Oak Avenue, Portland, OR 97201",
+    "phone": "(503) 555-0199",
+    "email": "hello (at) terraandflame.com",
+    "hours": "Hours",
+    "reservations": "Make a Reservation",
+    "name": "Name",
+    "emailLabel": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "footer": {
+    "tagline": "Modern rustic dining in the heart of Portland.",
+    "copyright": "\u00a9 {year} Terra & Flame. All rights reserved.",
+    "hours": "Hours"
+  },
+  "common": {
+    "loading": "Loading...",
+    "close": "Close"
+  }
+}
