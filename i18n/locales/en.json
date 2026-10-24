@@ -45,11 +45,21 @@
   },
   "footer": {
     "tagline": "Modern rustic dining in the heart of Portland.",
-    "copyright": "\u00a9 {year} Terra & Flame. All rights reserved.",
+    "copyright": "© {year} Terra & Flame. All rights reserved.",
     "hours": "Hours"
   },
   "common": {
     "loading": "Loading...",
     "close": "Close"
+  },
+  "pwa": {
+    "heading": "Install this app",
+    "description": "Install this app for offline access and a faster, app-like experience.",
+    "install": "Install",
+    "dismiss": "Dismiss"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "description": "Explore our restaurant through photos"
   }
 }

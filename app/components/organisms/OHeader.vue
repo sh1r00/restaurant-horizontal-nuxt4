@@ -23,7 +23,7 @@ async function switchLocale(code:string) { await setLocale(code) }
           <select :value="locale" aria-label="Select language" class="text-sm bg-transparent border border-primary-200 dark:border-primary-700 rounded-lg px-2 py-1 text-primary-700 dark:text-primary-200" @change="switchLocale(($event.target as HTMLSelectElement).value)"><option v-for="l in locales" :key="l.code" :value="l.code">{{ l.name }}</option></select>
           <ADarkModeToggle />
         </div>
-        <button class="md:hidden rounded-lg p-2 text-primary-700 dark:text-primary-200 hover:bg-primary-50 dark:hover:bg-primary-800" :aria-label="isMenuOpen?$t('a11y.closeDialog'):$t('a11y.toggleMenu')" :aria-expanded="isMenuOpen" @click="isMenuOpen=!isMenuOpen"><AIcon :name="isMenuOpen?'close':'menu'" size="sm" decorative /></button>
+        <button class="md:hidden rounded-lg p-2 text-primary-700 dark:text-primary-200 hover:bg-primary-50 dark:hover:bg-primary-800" :aria-label="isMenuOpen?t('a11y.closeDialog'):t('a11y.toggleMenu')" :aria-expanded="isMenuOpen" @click="isMenuOpen=!isMenuOpen"><AIcon :name="isMenuOpen?'close':'menu'" size="sm" decorative /></button>
       </div>
     </div>
     <div v-if="isMenuOpen" class="md:hidden border-t border-primary-100 dark:border-primary-800 bg-white dark:bg-primary-950 animate-fade-in">

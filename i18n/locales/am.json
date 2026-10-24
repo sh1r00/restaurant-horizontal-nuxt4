@@ -1,55 +1,65 @@
 {
   "a11y": {
-    "skipToContent": "\u12c8\u12f0 \u12cb\u1293\u12cd \u12ed\u12d8\u1275 \u12dd\u1208\u120d",
-    "mainNav": "\u12cb\u1293 \u12f3\u1230\u1233",
-    "toggleMenu": "\u121c\u1291 \u1240\u12eb\u12ed\u122d",
-    "closeDialog": "\u12dd\u130b",
-    "toggleDark": "\u1328\u1208\u121b \u121e\u12f5",
-    "toggleLight": "\u1265\u122d\u1203\u1295 \u121e\u12f5"
+    "skipToContent": "ወደ ዋናው ይዘት ዝለል",
+    "mainNav": "ዋና ዳሰሳ",
+    "toggleMenu": "ሜኑ ቀያይር",
+    "closeDialog": "ዝጋ",
+    "toggleDark": "ጨለማ ሞድ",
+    "toggleLight": "ብርሃን ሞድ"
   },
   "nav": {
-    "home": "\u1218\u1290\u123b",
-    "menu": "\u121d\u1293\u120c",
-    "about": "\u1235\u1208 \u12a5\u129b",
-    "contact": "\u12eb\u130d\u1299\u1295"
+    "home": "መነሻ",
+    "menu": "ምናሌ",
+    "about": "ስለ እኛ",
+    "contact": "ያግኙን"
   },
   "hero": {
-    "title": "\u121d\u12f5\u122d \u12a8\u12a5\u1233\u1275 \u130b\u122d \u12e8\u121a\u1308\u1293\u129d\u1260\u1275",
-    "subtitle": "\u1270\u1238\u120b\u121a \u12d8\u1218\u1293\u12ca \u1308\u1320\u122d \u121d\u130d\u1265 \u1264\u1275\u1362 \u12c8\u1245\u1273\u12ca \u1295\u1325\u1228 \u1290\u1308\u122e\u127d\u1363 \u1260\u12a5\u1233\u1275 \u12e8\u121a\u12d8\u130b\u1301 \u121d\u130d\u1266\u127d\u1362",
-    "cta": "\u1320\u1228\u1334\u12db \u12eb\u1235\u12ed\u12d9",
-    "viewMenu": "\u121d\u1293\u120c \u12ed\u1218\u120d\u12a8\u1271"
+    "title": "ምድር ከእሳት ጋር የሚገናኝበት",
+    "subtitle": "ተሸላሚ ዘመናዊ ገጠር ምግብ ቤት። ወቅታዊ ንጥረ ነገሮች፣ በእሳት የሚዘጋጁ ምግቦች።",
+    "cta": "ጠረጴዛ ያስይዙ",
+    "viewMenu": "ምናሌ ይመልከቱ"
   },
   "menu": {
-    "title": "\u12e8\u12a5\u129b \u121d\u1293\u120c",
-    "description": "\u12a8\u12a0\u12ab\u1263\u1262\u12eb\u12ca \u121d\u1295\u132e\u127d \u1260\u1270\u1308\u1299 \u1295\u1325\u1228 \u1290\u1308\u122e\u127d \u12e8\u1270\u12d8\u130b\u1301 \u121d\u130d\u1266\u127d\u1362"
+    "title": "የእኛ ምናሌ",
+    "description": "ከአካባቢያዊ ምንጮች በተገኙ ንጥረ ነገሮች የተዘጋጁ ምግቦች።"
   },
   "about": {
-    "title": "\u1273\u122a\u12ab\u127d\u1295",
-    "subtitle": "\u12602015 \u12e8\u1270\u1218\u1230\u1228\u1270\u12cd Terra & Flame \u12e8\u1308\u1320\u122d \u121d\u130d\u1265\u1295 \u1219\u1240\u1275 \u12a8\u12d8\u1218\u1293\u12ca \u12e8\u121d\u130d\u1265 \u12a0\u1230\u122b\u122d \u130b\u122d \u12eb\u1323\u121d\u122b\u120d\u1362",
-    "philosophy": "\u134d\u120d\u1235\u134d\u1293\u127d\u1295",
-    "philosophyText": "\u1260\u12a0\u12ad\u1265\u122e\u1275 \u1260\u121a\u1235\u1270\u1293\u1308\u12f1 \u1240\u120b\u120d\u1293 \u12a5\u12cd\u1290\u1270\u129b \u1295\u1325\u1228 \u1290\u1308\u122e\u127d \u1283\u12ed\u120d \u12a5\u1293\u121d\u1293\u1208\u1295\u1362",
-    "chef": "\u123c\u134d \u121b\u122a\u12eb \u1233\u1295\u1276\u1235",
-    "chefText": "\u123c\u134d \u121b\u122a\u12eb \u1233\u1295\u1276\u1235 \u1260\u1263\u122d\u1234\u120e\u1293 \u12e8\u1230\u1208\u1320\u1290\u127d \u1232\u1206\u1295 \u12e8\u12a5\u1233\u1275 \u121d\u130d\u1265 \u134d\u1245\u122f\u1295 \u12a0\u121d\u1325\u1273\u1208\u127d\u1362"
+    "title": "ታሪካችን",
+    "subtitle": "በ2015 የተመሰረተው Terra & Flame የገጠር ምግብን ሙቀት ከዘመናዊ የምግብ አሰራር ጋር ያጣምራል።",
+    "philosophy": "ፍልስፍናችን",
+    "philosophyText": "በአክብሮት በሚስተናገዱ ቀላልና እውነተኛ ንጥረ ነገሮች ኃይል እናምናለን።",
+    "chef": "ሼፍ ማሪያ ሳንቶስ",
+    "chefText": "ሼፍ ማሪያ ሳንቶስ በባርሴሎና የሰለጠነች ሲሆን የእሳት ምግብ ፍቅሯን አምጥታለች።"
   },
   "contact": {
-    "title": "\u12eb\u130d\u1299\u1295",
+    "title": "ያግኙን",
     "address": "456 Oak Avenue, Portland, OR 97201",
     "phone": "(503) 555-0199",
     "email": "hello (at) terraandflame.com",
-    "hours": "\u1230\u12d3\u1273\u1275",
-    "reservations": "\u1266\u1273 \u12eb\u1235\u12ed\u12d9",
-    "name": "\u1235\u121d",
-    "emailLabel": "\u12a2\u121c\u12ed\u120d",
-    "message": "\u1218\u120d\u12a5\u12ad\u1275",
-    "send": "\u120b\u12ad"
+    "hours": "ሰዓታት",
+    "reservations": "ቦታ ያስይዙ",
+    "name": "ስም",
+    "emailLabel": "ኢሜይል",
+    "message": "መልእክት",
+    "send": "ላክ"
   },
   "footer": {
-    "tagline": "\u1260\u1356\u122d\u1275\u120b\u1295\u12f5 \u12a5\u121d\u1265\u122d\u1275 \u12cd\u1235\u1325 \u12d8\u1218\u1293\u12ca \u1308\u1320\u122d \u121d\u130d\u1265\u1362",
-    "copyright": "\u00a9 {year} Terra & Flame\u1362 \u1218\u1265\u1271 \u1260\u1205\u130d \u12e8\u1270\u1320\u1260\u1240 \u1290\u12cd\u1362",
-    "hours": "\u1230\u12d3\u1273\u1275"
+    "tagline": "በፖርትላንድ እምብርት ውስጥ ዘመናዊ ገጠር ምግብ።",
+    "copyright": "© {year} Terra & Flame። መብቱ በህግ የተጠበቀ ነው።",
+    "hours": "ሰዓታት"
   },
   "common": {
-    "loading": "\u1260\u1218\u132b\u1295 \u120b\u12ed...",
-    "close": "\u12dd\u130b"
+    "loading": "በመጫን ላይ...",
+    "close": "ዝጋ"
+  },
+  "pwa": {
+    "heading": "ይህን መተግበሪያ ይጫኑ",
+    "description": "ከመስመር ውጭ ተደራሽነት እና ፈጣን ተሞክሮ ለማግኘት ይህን መተግበሪያ ይጫኑ።",
+    "install": "ይጫኑ",
+    "dismiss": "ይዝለሉ"
+  },
+  "gallery": {
+    "title": "ጋለሪ",
+    "description": "ሬስቶራንታችንን በፎቶዎች ያስሱ"
   }
 }
